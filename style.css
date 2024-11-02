@@ -1,0 +1,22 @@
+header {
+    background-color: #ffe69a97;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: blueviolet;
+    margin: 0; 
+}
+body {
+    margin: 0; 
+    padding: 0; 
+    background-color: rgb(255, 201, 201);
+    border: color(srgb-linear rgb(232, 124, 124) rgb(128, 255, 128) rgb(182, 182, 239)) ;
+}
+ul li {
+    border: 1px dashed darkorange;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
